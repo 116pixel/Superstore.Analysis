@@ -1,4 +1,4 @@
-# Professional Data Analyst - Mini Project 1
+# Professional Data Analyst - Project 1
 ## Advanced Python Data Exploration & Automated Reporting
 
 **Dataset:** `Sample - Superstore 2019.xls`  
