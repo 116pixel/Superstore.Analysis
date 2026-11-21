@@ -1,0 +1,10 @@
+Superstore Analytical Report
+===========================
+Total Sales: 1401969.25
+Total Profit: 160583.73
+Average Sales: 140.28
+Average Profit: 16.07
+Total Orders: 5009.00
+Average Shipping Duration: 3.96
+
+The report was generated automatically by the Python project.
